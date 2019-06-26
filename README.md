@@ -21,9 +21,9 @@ npm i -g @fcedu/fc-terminal-billboard
 
 ## 使用
 
-全局安装直接在命令行输入 `fc-terminal-billboard` 就会打印出广告排。
+全局安装直接在命令行输入 `fc-terminal-billboard` 就会打印出广告牌。
 
-或者在项目的命令前加上，例如：
+或者在项目的命令前加上 `fc-terminal-billboard &&`，例如：
 ```json
 "start": "fc-terminal-billboard && cross-env NODE_ENV=development webpack-dev-server --open",
 ```
