@@ -1,9 +1,16 @@
 {
-  "name": "terminal-billboard",
-  "version": "1.0.0",
-  "main": "index.js",
+  "name": "@fcedu/fc-terminal-billboard",
+  "version": "0.0.1",
+  "main": "src/cli.js",
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.2"
-  }
+  },
+  "bin": {
+    "fc-terminal-billboard": "bin/fc-terminal-billboard"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "fcedu"
 }
