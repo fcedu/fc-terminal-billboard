@@ -1,1 +1,1 @@
-[preview](https://github.com/fcedu/fc-terminal-billboard/blob/master/assets/preview.jpg)
+![preview](https://github.com/fcedu/fc-terminal-billboard/blob/master/assets/preview.jpg)
